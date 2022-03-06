@@ -456,4 +456,9 @@
 *://www.cyber-bridge.jp/*
 *://oshiete.goo.ne.jp/*
 *://pisuke-code.com/*
-*://www.itmedia.co.jp/*
+*://detail.chiebukuro.yahoo.co.jp/*
+*://www.beginnerweb.net/*
+*://pisuke-code.com/*
+*://www.teijitaisya.com/*
+*://iphone-manual.net/*
+*://php1st.com/*
